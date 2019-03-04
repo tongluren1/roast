@@ -14,6 +14,6 @@ class AppController extends Controller
 {
     public function getApp()
     {
-        return view('app');
+        return view('login');
     }
 }
